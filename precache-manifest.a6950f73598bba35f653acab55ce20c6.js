@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "76e064e735a36ecf9fa8",
-    "url": "/static/css/main.615b29c2.chunk.css"
+    "revision": "4f19859fbe5ad5094ec2",
+    "url": "/static/css/main.bca69237.chunk.css"
   },
   {
-    "revision": "76e064e735a36ecf9fa8",
-    "url": "/static/js/main.76e064e7.chunk.js"
+    "revision": "4f19859fbe5ad5094ec2",
+    "url": "/static/js/main.4f19859f.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/static/media/mdx.8e72f6f2.png"
   },
   {
-    "revision": "50a3a6e96321789f4924a4a99276434b",
-    "url": "/static/media/rightArrow.50a3a6e9.svg"
+    "revision": "58fb3f955a005459d9608f5862053d60",
+    "url": "/static/media/rightArrow.58fb3f95.svg"
   },
   {
     "revision": "ea7d33f92fba1585ac2f937a72cb81dd",
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/static/media/bannerBird.3aa65421.png"
   },
   {
-    "revision": "55768570306e6ddf8877ceb6d005d945",
-    "url": "/static/media/upperWave.55768570.png"
+    "revision": "876634e0f10e8ce8e7a4fc9c61c49e1d",
+    "url": "/static/media/upperWave.876634e0.png"
   },
   {
     "revision": "c7b7a317bfbcf353e31cf9ccfbfd09f2",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "url": "/static/media/roadmapzh_CN.70111387.png"
   },
   {
-    "revision": "4511e08f476c9c1f1a64ef2097670622",
-    "url": "/static/media/lowerWave.4511e08f.png"
+    "revision": "497b801f48d9dff3f29fc9f7a7e1bf72",
+    "url": "/static/media/lowerWave.497b801f.png"
   },
   {
     "revision": "e25a6ef78ace75c16513fd327718430b",
@@ -136,11 +136,15 @@ self.__precacheManifest = [
     "url": "/static/media/eggBg.35d75be1.png"
   },
   {
-    "revision": "a3c1c1bdece00dc0c7123aea98410839",
-    "url": "/static/media/bg.a3c1c1bd.png"
+    "revision": "184e316ea29088635a9c1f6c85f4a820",
+    "url": "/static/media/bg.184e316e.png"
   },
   {
-    "revision": "94699865a806269cca734f29677577c6",
+    "revision": "cb4308ea3570cb5148313a625dff0545",
+    "url": "/static/media/birds.cb4308ea.png"
+  },
+  {
+    "revision": "f03e81cbeea5129df9c38e7b81efc96a",
     "url": "/index.html"
   }
 ];

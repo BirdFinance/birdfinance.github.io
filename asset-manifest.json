@@ -1,17 +1,17 @@
 {
-  "main.css": "/static/css/main.37912fd6.chunk.css",
-  "main.js": "/static/js/main.bf0ec3a2.chunk.js",
-  "main.js.map": "/static/js/main.bf0ec3a2.chunk.js.map",
+  "main.css": "/static/css/main.b120ac9f.chunk.css",
+  "main.js": "/static/js/main.a6bcb013.chunk.js",
+  "main.js.map": "/static/js/main.a6bcb013.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
   "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
   "static/css/2.0e190378.chunk.css": "/static/css/2.0e190378.chunk.css",
-  "static/js/2.cf946efd.chunk.js": "/static/js/2.cf946efd.chunk.js",
-  "static/js/2.cf946efd.chunk.js.map": "/static/js/2.cf946efd.chunk.js.map",
+  "static/js/2.6b813434.chunk.js": "/static/js/2.6b813434.chunk.js",
+  "static/js/2.6b813434.chunk.js.map": "/static/js/2.6b813434.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.5ea4bae4cfe3f7c3d80f6d73645006c0.js": "/precache-manifest.5ea4bae4cfe3f7c3d80f6d73645006c0.js",
+  "precache-manifest.8d8f8077206db9bbef550d758233c30c.js": "/precache-manifest.8d8f8077206db9bbef550d758233c30c.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.0e190378.chunk.css.map": "/static/css/2.0e190378.chunk.css.map",
-  "static/css/main.37912fd6.chunk.css.map": "/static/css/main.37912fd6.chunk.css.map",
+  "static/css/main.b120ac9f.chunk.css.map": "/static/css/main.b120ac9f.chunk.css.map",
   "static/media/audit.svg": "/static/media/audit.c67cc234.svg",
   "static/media/audit.pdf": "/static/media/audit.e2563894.pdf",
   "static/media/bannerBird.png": "/static/media/bannerBird.3aa65421.png",
@@ -40,5 +40,7 @@
   "static/media/roadmapzh_CN.png": "/static/media/roadmapzh_CN.b30f822a.png",
   "static/media/smartFarm.svg": "/static/media/smartFarm.99f675da.svg",
   "static/media/solona.png": "/static/media/solona.818d2bf0.png",
-  "static/media/upperWave.png": "/static/media/upperWave.876634e0.png"
+  "static/media/upperWave.png": "/static/media/upperWave.876634e0.png",
+  "static/media/whitepaper_en.pdf": "/static/media/whitepaper_en.eba1083c.pdf",
+  "static/media/whitepaper_zh_CN.pdf": "/static/media/whitepaper_zh_CN.eba1083c.pdf"
 }

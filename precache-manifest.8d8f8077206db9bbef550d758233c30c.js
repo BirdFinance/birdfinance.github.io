@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "bf0ec3a2904b23d01443",
-    "url": "/static/css/main.37912fd6.chunk.css"
+    "revision": "a6bcb0135e4185d59c7a",
+    "url": "/static/css/main.b120ac9f.chunk.css"
   },
   {
-    "revision": "bf0ec3a2904b23d01443",
-    "url": "/static/js/main.bf0ec3a2.chunk.js"
+    "revision": "a6bcb0135e4185d59c7a",
+    "url": "/static/js/main.a6bcb013.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "cf946efd33354b52e815",
+    "revision": "6b813434e27eafec8c4b",
     "url": "/static/css/2.0e190378.chunk.css"
   },
   {
-    "revision": "cf946efd33354b52e815",
-    "url": "/static/js/2.cf946efd.chunk.js"
+    "revision": "6b813434e27eafec8c4b",
+    "url": "/static/js/2.6b813434.chunk.js"
   },
   {
     "revision": "bbf2fda086cbae2573374d9969b4be93",
@@ -80,6 +80,14 @@ self.__precacheManifest = [
     "url": "/static/media/logoIcon.bd5f1767.png"
   },
   {
+    "revision": "eba1083c3412a10c1867b2b7ed61a8d8",
+    "url": "/static/media/whitepaper_en.eba1083c.pdf"
+  },
+  {
+    "revision": "eba1083c3412a10c1867b2b7ed61a8d8",
+    "url": "/static/media/whitepaper_zh_CN.eba1083c.pdf"
+  },
+  {
     "revision": "3aa654219803fc5285801f547163034f",
     "url": "/static/media/bannerBird.3aa65421.png"
   },
@@ -136,15 +144,15 @@ self.__precacheManifest = [
     "url": "/static/media/eggBg.35d75be1.png"
   },
   {
-    "revision": "184e316ea29088635a9c1f6c85f4a820",
-    "url": "/static/media/bg.184e316e.png"
-  },
-  {
     "revision": "cb4308ea3570cb5148313a625dff0545",
     "url": "/static/media/birds.cb4308ea.png"
   },
   {
-    "revision": "363ea7d29ae591055d01ec0a9c5a83d9",
+    "revision": "184e316ea29088635a9c1f6c85f4a820",
+    "url": "/static/media/bg.184e316e.png"
+  },
+  {
+    "revision": "89e05b5063ae092252f1f6b45e2dcba4",
     "url": "/index.html"
   }
 ];

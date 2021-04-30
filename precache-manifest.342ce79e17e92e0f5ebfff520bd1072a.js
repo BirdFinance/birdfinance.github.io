@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4f63f4f0553d7a0e7a50",
+    "revision": "04ade8bb29575dbbbe43",
     "url": "/static/css/main.37912fd6.chunk.css"
   },
   {
-    "revision": "4f63f4f0553d7a0e7a50",
-    "url": "/static/js/main.4f63f4f0.chunk.js"
+    "revision": "04ade8bb29575dbbbe43",
+    "url": "/static/js/main.04ade8bb.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/static/media/roadmapen.dcf2138c.png"
   },
   {
-    "revision": "70111387dca6aa785b5d42f4702742c4",
-    "url": "/static/media/roadmapzh_CN.70111387.png"
+    "revision": "b30f822a9c054246c2a9e4c55c2a4488",
+    "url": "/static/media/roadmapzh_CN.b30f822a.png"
   },
   {
     "revision": "497b801f48d9dff3f29fc9f7a7e1bf72",
@@ -144,7 +144,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg.184e316e.png"
   },
   {
-    "revision": "dbcd377f2962839f3cc23a569112ed18",
+    "revision": "7acfbed6fb40aa9c0ebea7365eb598fb",
     "url": "/index.html"
   }
 ];

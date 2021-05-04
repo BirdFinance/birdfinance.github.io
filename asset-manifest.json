@@ -1,14 +1,14 @@
 {
   "main.css": "/static/css/main.8fd145d8.chunk.css",
-  "main.js": "/static/js/main.aa1f0abe.chunk.js",
-  "main.js.map": "/static/js/main.aa1f0abe.chunk.js.map",
+  "main.js": "/static/js/main.d5bf495e.chunk.js",
+  "main.js.map": "/static/js/main.d5bf495e.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
   "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
   "static/css/2.0e190378.chunk.css": "/static/css/2.0e190378.chunk.css",
-  "static/js/2.40922387.chunk.js": "/static/js/2.40922387.chunk.js",
-  "static/js/2.40922387.chunk.js.map": "/static/js/2.40922387.chunk.js.map",
+  "static/js/2.3e990816.chunk.js": "/static/js/2.3e990816.chunk.js",
+  "static/js/2.3e990816.chunk.js.map": "/static/js/2.3e990816.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.c3bcf30b94e6762b6a833ecd0cac6b5e.js": "/precache-manifest.c3bcf30b94e6762b6a833ecd0cac6b5e.js",
+  "precache-manifest.cce3c2f970568cd121426492efa11039.js": "/precache-manifest.cce3c2f970568cd121426492efa11039.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.0e190378.chunk.css.map": "/static/css/2.0e190378.chunk.css.map",
   "static/css/main.8fd145d8.chunk.css.map": "/static/css/main.8fd145d8.chunk.css.map",
@@ -42,6 +42,7 @@
   "static/media/smartFarm.svg": "/static/media/smartFarm.99f675da.svg",
   "static/media/solona.png": "/static/media/solona.818d2bf0.png",
   "static/media/upperWave.png": "/static/media/upperWave.876634e0.png",
+  "static/media/vote.svg": "/static/media/vote.e3c5bad7.svg",
   "static/media/whitepaper_en.pdf": "/static/media/whitepaper_en.eba1083c.pdf",
   "static/media/whitepaper_zh_CN.pdf": "/static/media/whitepaper_zh_CN.eba1083c.pdf"
 }

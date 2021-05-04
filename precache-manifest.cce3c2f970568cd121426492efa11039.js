@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "aa1f0abec50f1ab332c0",
+    "revision": "d5bf495ef2f6f704033c",
     "url": "/static/css/main.8fd145d8.chunk.css"
   },
   {
-    "revision": "aa1f0abec50f1ab332c0",
-    "url": "/static/js/main.aa1f0abe.chunk.js"
+    "revision": "d5bf495ef2f6f704033c",
+    "url": "/static/js/main.d5bf495e.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "40922387c6f1fcc2c8b3",
+    "revision": "3e99081659c997d38c65",
     "url": "/static/css/2.0e190378.chunk.css"
   },
   {
-    "revision": "40922387c6f1fcc2c8b3",
-    "url": "/static/js/2.40922387.chunk.js"
+    "revision": "3e99081659c997d38c65",
+    "url": "/static/js/2.3e990816.chunk.js"
   },
   {
     "revision": "bbf2fda086cbae2573374d9969b4be93",
@@ -34,6 +34,10 @@ self.__precacheManifest = [
   {
     "revision": "99f675da114be051711f5b8beefd802f",
     "url": "/static/media/smartFarm.99f675da.svg"
+  },
+  {
+    "revision": "e3c5bad738984a7c6dde507bc7d52cc8",
+    "url": "/static/media/vote.e3c5bad7.svg"
   },
   {
     "revision": "f7091402c962249510bed3c06d66beeb",
@@ -148,15 +152,15 @@ self.__precacheManifest = [
     "url": "/static/media/eggBg.35d75be1.png"
   },
   {
-    "revision": "cb4308ea3570cb5148313a625dff0545",
-    "url": "/static/media/birds.cb4308ea.png"
-  },
-  {
     "revision": "49bf281c7b6530d265041c0fa02c5ba2",
     "url": "/static/media/bg.49bf281c.png"
   },
   {
-    "revision": "f66cebf208cd4a92e1c799eabd9edaf5",
+    "revision": "cb4308ea3570cb5148313a625dff0545",
+    "url": "/static/media/birds.cb4308ea.png"
+  },
+  {
+    "revision": "d97a1ac9ae24ba05a8d2b7df83708003",
     "url": "/index.html"
   }
 ];

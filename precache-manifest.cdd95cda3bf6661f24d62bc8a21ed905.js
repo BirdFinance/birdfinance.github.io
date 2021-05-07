@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "94688b856f0ebb9843bb",
-    "url": "/static/css/main.fb96eb53.chunk.css"
+    "revision": "05d83f16fe55e9c2a091",
+    "url": "/static/css/main.81c3d5b8.chunk.css"
   },
   {
-    "revision": "94688b856f0ebb9843bb",
-    "url": "/static/js/main.94688b85.chunk.js"
+    "revision": "05d83f16fe55e9c2a091",
+    "url": "/static/js/main.05d83f16.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "26efadaf9095b026ce5d",
+    "revision": "03f87836b6adc858daf9",
     "url": "/static/css/2.0e190378.chunk.css"
   },
   {
-    "revision": "26efadaf9095b026ce5d",
-    "url": "/static/js/2.26efadaf.chunk.js"
+    "revision": "03f87836b6adc858daf9",
+    "url": "/static/js/2.03f87836.chunk.js"
   },
   {
     "revision": "2c1e5492b079de13a79f6b4f427dec68",
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/static/media/birds.cb4308ea.png"
   },
   {
-    "revision": "adbb15239dfaf06c6e1ea2751debbf0e",
+    "revision": "0df15e527d33f2185f8a9b8367337668",
     "url": "/index.html"
   }
 ];

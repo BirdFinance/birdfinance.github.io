@@ -1,31 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "229479477ddb0ade80ee",
-    "url": "/static/css/main.9dc5434e.chunk.css"
+    "revision": "51dc3067c9610b763d1b",
+    "url": "/static/css/main.f61ea066.chunk.css"
   },
   {
-    "revision": "229479477ddb0ade80ee",
-    "url": "/static/js/main.22947947.chunk.js"
+    "revision": "51dc3067c9610b763d1b",
+    "url": "/static/js/main.51dc3067.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "8d699623678af4d499fe",
+    "revision": "e9501c2f9c8dbba1c606",
     "url": "/static/css/2.0e190378.chunk.css"
   },
   {
-    "revision": "8d699623678af4d499fe",
-    "url": "/static/js/2.8d699623.chunk.js"
+    "revision": "e9501c2f9c8dbba1c606",
+    "url": "/static/js/2.e9501c2f.chunk.js"
   },
   {
-    "revision": "2c1e5492b079de13a79f6b4f427dec68",
-    "url": "/static/media/star.2c1e5492.svg"
-  },
-  {
-    "revision": "bbf2fda086cbae2573374d9969b4be93",
-    "url": "/static/media/logo.bbf2fda0.png"
+    "revision": "bd5f17673db766cd71dfd4c82cf8b17a",
+    "url": "/static/media/bird.bd5f1767.png"
   },
   {
     "revision": "273449dde1692c758f0ea2159aef1004",
@@ -40,32 +36,52 @@ self.__precacheManifest = [
     "url": "/static/media/smartFarm.99f675da.svg"
   },
   {
-    "revision": "e3c5bad738984a7c6dde507bc7d52cc8",
-    "url": "/static/media/vote.e3c5bad7.svg"
+    "revision": "14a5712be59bf3370313f4bece521a1e",
+    "url": "/static/media/boardroom.14a5712b.svg"
   },
   {
     "revision": "f7091402c962249510bed3c06d66beeb",
     "url": "/static/media/launchpad.f7091402.svg"
   },
   {
-    "revision": "82009bd6133b01ed6640acfb7d5ab5b0",
-    "url": "/static/media/claim.82009bd6.svg"
+    "revision": "e3c5bad738984a7c6dde507bc7d52cc8",
+    "url": "/static/media/vote.e3c5bad7.svg"
   },
   {
-    "revision": "e25638942204214e9eb7e94ddf79fc69",
-    "url": "/static/media/audit.e2563894.pdf"
+    "revision": "82009bd6133b01ed6640acfb7d5ab5b0",
+    "url": "/static/media/claim.82009bd6.svg"
   },
   {
     "revision": "c67cc23408bea9485a1a139db3269dbd",
     "url": "/static/media/audit.c67cc234.svg"
   },
   {
-    "revision": "bd5f17673db766cd71dfd4c82cf8b17a",
-    "url": "/static/media/bird.bd5f1767.png"
+    "revision": "2c1e5492b079de13a79f6b4f427dec68",
+    "url": "/static/media/star.2c1e5492.svg"
+  },
+  {
+    "revision": "bbf2fda086cbae2573374d9969b4be93",
+    "url": "/static/media/logo.bbf2fda0.png"
+  },
+  {
+    "revision": "cfef812ff6d8dd44985e7422bb3ba13c",
+    "url": "/static/media/nft.cfef812f.svg"
+  },
+  {
+    "revision": "a3aabde5e64ac42b993b4ba8fed2f70c",
+    "url": "/static/media/boardcast.a3aabde5.svg"
+  },
+  {
+    "revision": "e25638942204214e9eb7e94ddf79fc69",
+    "url": "/static/media/audit.e2563894.pdf"
   },
   {
     "revision": "afa08cd95ca924af2bfb30d0d67ec6b1",
     "url": "/static/media/eth.afa08cd9.png"
+  },
+  {
+    "revision": "2365a076fe6ce610c694de972dab0681",
+    "url": "/static/media/ltc.2365a076.png"
   },
   {
     "revision": "8e72f6f2edbc451e3bba41e50d2b8fcd",
@@ -98,14 +114,6 @@ self.__precacheManifest = [
   {
     "revision": "bd5f17673db766cd71dfd4c82cf8b17a",
     "url": "/static/media/logoIcon.bd5f1767.png"
-  },
-  {
-    "revision": "eba1083c3412a10c1867b2b7ed61a8d8",
-    "url": "/static/media/whitepaper_en.eba1083c.pdf"
-  },
-  {
-    "revision": "eba1083c3412a10c1867b2b7ed61a8d8",
-    "url": "/static/media/whitepaper_zh_CN.eba1083c.pdf"
   },
   {
     "revision": "3aa654219803fc5285801f547163034f",
@@ -168,15 +176,15 @@ self.__precacheManifest = [
     "url": "/static/media/eggBg.35d75be1.png"
   },
   {
-    "revision": "713e9473313c1c1a5027fbd365248db2",
-    "url": "/static/media/bg.713e9473.png"
-  },
-  {
     "revision": "cb4308ea3570cb5148313a625dff0545",
     "url": "/static/media/birds.cb4308ea.png"
   },
   {
-    "revision": "a689ebd2a72657eb74fa3f533eb12809",
+    "revision": "713e9473313c1c1a5027fbd365248db2",
+    "url": "/static/media/bg.713e9473.png"
+  },
+  {
+    "revision": "9e808bcf87e3ffb960619317fe28e865",
     "url": "/index.html"
   }
 ];
